@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { width: 350px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 15px; background: #f8f9fa; }
+    h2 { margin-top: 0; color: #1a73e8; font-size: 18px; }
+    textarea { width: 100%; height: 120px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; resize: none; box-sizing: border-box; font-size: 14px; }
+    button { width: 100%; padding: 10px; margin-top: 10px; background: #1a73e8; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; transition: background 0.3s; }
+    button:hover { background: #1557b0; }
+    button:disabled { background: #ccc; }
+    #output-container { margin-top: 15px; padding: 10px; background: white; border: 1px solid #eee; border-radius: 8px; min-height: 50px; font-size: 13px; line-height: 1.4; white-space: pre-wrap; display: none; }
+    .settings-link { color: #666; font-size: 11px; text-decoration: underline; cursor: pointer; text-align: right; margin-top: 10px; display: block; }
+    #settings-panel { margin-top: 15px; padding-top: 10px; border-top: 1px dashed #ccc; display: none; }
+    #settings-panel input { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; font-size: 12px; }
+    .status { font-size: 12px; margin-top: 5px; color: #d93025; }
+  </style>
+</head>
+<body>
+  <h2>Prompt Polisher</h2>
+  <textarea id="prompt-input" placeholder="Paste your vague idea here..."></textarea>
+  <button id="polish-btn">Polish Prompt</button>
+  <div id="output-container"></div>
+  
+  <span id="toggle-settings" class="settings-link">API Settings</span>
+  <div id="settings-panel">
+    <input type="password" id="api-key-input" placeholder="Paste Gemini API Key">
+    <button id="save-key-btn" style="background: #34a853; font-size: 12px; padding: 6px;">Save Key</button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
