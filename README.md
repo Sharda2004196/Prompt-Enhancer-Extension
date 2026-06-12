@@ -1,4 +1,4 @@
-# 🗜️ Prompt Polisher Extension
+# 🗜️ Prompt Enhancer Extension
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Manifest: V3](https://img.shields.io/badge/Manifest-V3-green.svg)](https://developer.chrome.com/docs/extensions/mv3/)
@@ -8,7 +8,7 @@ A robust, standalone Chrome/Edge browser extension that leverages the power of G
 
 Eliminate context switching and supercharge your AI workflows without ever leaving your current browser tab.
 
-![Prompt Polisher Demo](https://via.placeholder.com/800x400.png?text=Add+a+High-Quality+GIF+or+Screenshot+Here)
+![Prompt Enhancer Demo](https://via.placeholder.com/800x400.png?text=Add+a+High-Quality+GIF+or+Screenshot+Here)
 
 ---
 
@@ -18,7 +18,7 @@ In the era of Generative AI, the quality of your output is entirely dependent on
 
 **"Context switching" kills productivity.** If you are deep in a coding session, writing an important email, or drafting a project proposal, having to open a new tab, navigate to an AI chatbot (like ChatGPT or Claude), type "make this prompt better", copy the result, and paste it back into your workspace completely breaks your cognitive flow.
 
-**Prompt Polisher** solves this by acting as your personal, on-demand Prompt Engineer residing directly in your browser toolbar. Paste your raw, unfiltered thoughts, click a button, and receive a world-class, context-rich prompt back in seconds.
+**Prompt Enhancer** solves this by acting as your personal, on-demand Prompt Engineer residing directly in your browser toolbar. Paste your raw, unfiltered thoughts, click a button, and receive a world-class, context-rich prompt back in seconds.
 
 ---
 
