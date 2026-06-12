@@ -53,7 +53,7 @@ Because this extension is open-source and respects your privacy, it is currently
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/PromptPolisherExtension.git
+    git clone https://github.com/yourusername/PromptEnhancerExtension.git
     ```
     *(Alternatively, download the repository as a ZIP file and extract it).*
 
@@ -66,7 +66,7 @@ Because this extension is open-source and respects your privacy, it is currently
 
 4.  **Load the Extension:**
     *   Click the **"Load unpacked"** button that appears.
-    *   Navigate to the directory where you cloned/extracted the project and select the `PromptPolisherExtension` folder.
+    *   Navigate to the directory where you cloned/extracted the project and select the `PromptEnhancerExtension` folder.
 
 5.  **Pin it:**
     *   Click the puzzle piece icon (Extensions menu) in your browser toolbar and "Pin" the Prompt Polisher icon for easy access.
