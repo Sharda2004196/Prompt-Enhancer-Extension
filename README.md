@@ -8,7 +8,7 @@ A robust, standalone Chrome/Edge browser extension that leverages the power of G
 
 Eliminate context switching and supercharge your AI workflows without ever leaving your current browser tab.
 
-![Prompt Enhancer Demo](https://via.placeholder.com/800x400.png?text=Add+a+High-Quality+GIF+or+Screenshot+Here)
+![Prompt Enhancer Demo](assets/Screenshot_Prompt_Enhancer.png)
 
 ---
 
